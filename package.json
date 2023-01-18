@@ -5,14 +5,14 @@
   "main": "app.js",
   "scripts": {
     "start":"node app.js",
-    "build":"echo success",
+    "build":"echo sucess",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "engines": {
     "node": "18.12.1"
-  }
+  },
   "dependencies": {
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
